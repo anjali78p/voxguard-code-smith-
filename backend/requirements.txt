@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+librosa
+soundfile
+ffmpeg-python
+xgboost
+speechbrain
+numpy
+scikit-learn
+joblib
+torch
+python-multipart
