@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+ffmpeg-python
+librosa
+soundfile
+numpy
+scipy
+joblib
+xgboost
+torch
+torchaudio
+speechbrain
+resemblyzer
+python-telegram-bot
